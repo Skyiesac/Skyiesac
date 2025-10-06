@@ -1,7 +1,7 @@
 # 🤺 About Me:
 ### Hey there! I'm Sachi Jain  
 
-💻 **Passionate Python Developer** | 📚 **Sophomore (2023-27)**  
+💻 **Passionate Python Developer** | 
 
 - 🧑‍💻 Enthusiastic about coding and building backend systems.
 - 🚀 Exploring **competitive programming** and **software development**.  
